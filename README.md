@@ -13,7 +13,7 @@ If it passes DAObulletin will display it.
 # Usage
 
 ```
-$ git clone ...
+$ git clone https://github.com/jessebmiller/DAObulletin.git
 $ cd DAObulletin
 $ npm run dev
 ```
