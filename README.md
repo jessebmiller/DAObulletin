@@ -6,7 +6,7 @@ A distributed system for viewing DAO bulletins
 
 1. Put a JSON object with `{"DAObulletinVersion": "v0-alpha", "bulletin": "<your text>"}` on ipfs
 
-2. Make a proposal in alchemy using an ipfs URL
+2. Make a proposal in alchemy using it's ipfs URL
 
 If it passes DAObulletin will display it.
 
